@@ -7,11 +7,17 @@
 
 ---
 
-## 🛠️ Languages and tools
+<!-- ## 🛠️ Languages and tools -->
 
-</br>
+## 🛠️ Tools I Use
 
-[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,nextjs,flutter,fastapi&perline=10)](https://samarth.site)
+[![xamarth](https://skillicons.dev/icons?i=androidstudio,vscode,git,github,linux,java,html,py,c,ts,js,nextjs&perline=13)](https://samarth.site)
+
+## 🛠️ Languages Known
+
+[![xamarth](https://skillicons.dev/icons?i=java,html,py,c,ts,js,nextjs&perline=13)](https://samarth.site)
+
+<!-- [![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,nextjs,flutter,fastapi&perline=10)](https://samarth.site) -->
 
 ---
 
@@ -29,7 +35,7 @@
 <!-- ## 📊 Stats -->
 <!-- [![Metrics](./)](https://samarth.site) -->
 
-## 👨🏻‍💻 WakaTime Stats
+## 👨🏻‍💻 Work Time Stats
 
 ```txt
 Total Time: 721 hrs 4 mins

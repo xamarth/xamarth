@@ -11,11 +11,15 @@
 
 ## 🛠️ Tools I Use
 
-[![xamarth](https://skillicons.dev/icons?i=androidstudio,vscode,git,github,linux,java,html,py,c,ts,js,nextjs&perline=13)](https://samarth.site)
+[![xamarth](https://skillicons.dev/icons?i=vscode,git,github,androidstudio,blender,figma&perline=10)](https://samarth.site)
 
 ## 🛠️ Languages Known
 
-[![xamarth](https://skillicons.dev/icons?i=java,html,py,c,ts,js,nextjs&perline=13)](https://samarth.site)
+[![xamarth](https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,java,html,css,c,py,bash,cpp&perline=13)](https://samarth.site)
+
+## 🛠️ OS Compatibility
+
+[![xamarth](https://skillicons.dev/icons?i=linux,kali,ubuntu,windows&perline=13)](https://samarth.site)
 
 <!-- [![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,nextjs,flutter,fastapi&perline=10)](https://samarth.site) -->
 

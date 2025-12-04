@@ -14,7 +14,8 @@ Welcome To My Github Profile
 
 ## 🛠️ Languages Known
 
-[![xamarth](https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,java,html,css,c,py,bash&perline=13)](https://samarth.site)
+[![xamarth](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=10)](https://samarth.site)
+[![xamarth](https://skillicons.dev/icons?i=cpp,java,python,bash,c&perline=10)](https://samarth.site)
 
 ## 🛠️ OS Compatibility
 

@@ -23,9 +23,9 @@ Welcome To My Github Profile
 
 ## 🛠️ Connect With Me
 
-[![xamarth](https://skillicons.dev/icons?i=instagram&perline=10)](https://samarth.site)
-[![xamarth](https://skillicons.dev/icons?i=twitter&perline=10)](https://samarth.site)
-[![xamarth](https://skillicons.dev/icons?i=discord&perline=10)](https://samarth.site)
+[![xamarth](https://skillicons.dev/icons?i=instagram&perline=10)](https://instagram.com/_xamarth)
+[![xamarth](https://skillicons.dev/icons?i=twitter&perline=10)](https://x.com/xamarthkosta)
+[![xamarth](https://skillicons.dev/icons?i=discord&perline=10)](https://discord/riotoreo)
 
 <!-- xamarth -->
 </div>

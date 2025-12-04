@@ -33,11 +33,11 @@ Welcome To My Github Profile
 
 ## 🔗 Connect with me
 
-<a href="https://samarth.site" class="padded"><img align="center" alt="https://samarth.site" width="28px" src="./res/website.png" /></a>
-<a href="https://youtube.com/samarthkosta" class="padded"><img align="center" alt="xamarth" width="28px" src="./res/youtube.png" /></a>
-<a href="https://telegram.dog/riotoreo" class="padded"><img align="center" alt="xamarth" width="28px" src="./res/telegram.png" /></a>
-<a href="https://x.com/xamarthkosta" class="padded"><img align="center" alt="xamarth" width="28px" src="./res/twitter.png" /></a>
-<a href="https://linkedin.com/in/samarthkosta" class="padded"><img align="center" alt="xamarth" width="28px" src="./res/linkedin.png" /></a>
+<a href="https://samarth.site" class="padded"><img align="center" alt="https://samarth.site" width="28px" src="../res/website.png" /></a>
+<a href="https://youtube.com/samarthkosta" class="padded"><img align="center" alt="xamarth" width="28px" src="../res/youtube.png" /></a>
+<a href="https://telegram.dog/riotoreo" class="padded"><img align="center" alt="xamarth" width="28px" src="../res/telegram.png" /></a>
+<a href="https://x.com/xamarthkosta" class="padded"><img align="center" alt="xamarth" width="28px" src="../res/twitter.png" /></a>
+<a href="https://linkedin.com/in/samarthkosta" class="padded"><img align="center" alt="xamarth" width="28px" src="../res/linkedin.png" /></a>
 </br>
 
 <!-- --- -->

@@ -27,6 +27,9 @@ Welcome To My Github Profile
 [![xamarth](https://skillicons.dev/icons?i=twitter&perline=10)](https://x.com/xamarthkosta)
 [![xamarth](https://skillicons.dev/icons?i=discord&perline=10)](https://discord/riotoreo)
 
+---
+
+![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
 

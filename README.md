@@ -46,6 +46,7 @@ HTML         24 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](undefined) in [xamarth/Linux-Server-Manager](https://github.com/xamarth/Linux-Server-Manager)
 <!--END_SECTION:activity-->
 
 <!-- xamarth -->

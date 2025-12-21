@@ -8,18 +8,23 @@ Welcome To My Github Profile
 <br>⚡ Always ready to help! ⚡
 </h3>
 
+---
+
 ## 🛠️ Tools I Use
 
 [![xamarth](https://skillicons.dev/icons?i=vscode,github,androidstudio,blender,figma&perline=10)](https://samarth.site)
+
 
 ## 🛠️ Languages Known
 
 [![xamarth](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=10)](https://samarth.site)
 [![xamarth](https://skillicons.dev/icons?i=cpp,java,python,bash,c&perline=10)](https://samarth.site)
 
+
 ## 🛠️ OS Compatibility
 
 [![xamarth](https://skillicons.dev/icons?i=linux,windows,apple,kali,ubuntu,arch,debian&perline=13)](https://samarth.site)
+
 
 ## 🛠️ Connect With Me
 
@@ -29,7 +34,17 @@ Welcome To My Github Profile
 
 </div>
 
+---
+
+<br>
+
+## 📊 Stats
+
 ![Metrics](/github-metrics.svg)
+
+---
+
+## 👨🏻‍💻 WakaTime Stats
 
 <!--START_SECTION:waka-->
 
@@ -45,8 +60,20 @@ HTML         24 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
+---
+
+## 💻 Latest Activities
+
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](undefined) in [xamarth/Linux-Server-Manager](https://github.com/xamarth/Linux-Server-Manager)
 <!--END_SECTION:activity-->
+
+---
+
+## 📋 Badges
+
+[![An image of @xamarth's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xamarth)](https://holopin.io/@xamarth)
+
+---
 
 <!-- xamarth -->

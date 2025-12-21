@@ -29,6 +29,8 @@ Welcome To My Github Profile
 
 ---
 
+</div>
+
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
@@ -45,6 +47,7 @@ HTML         24 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!-- xamarth -->

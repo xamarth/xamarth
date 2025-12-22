@@ -62,14 +62,6 @@ JSON         27 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ---
 
-## 💻 Latest Activities
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](undefined) in [xamarth/StudentTaskManager](https://github.com/xamarth/StudentTaskManager)
-<!--END_SECTION:activity-->
-
----
-
 ## 📋 Badges
 
 [![An image of @xamarth's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xamarth)](https://holopin.io/@xamarth)

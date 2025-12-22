@@ -65,7 +65,7 @@ JSON         27 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](undefined) in [xamarth/Linux-Server-Manager](https://github.com/xamarth/Linux-Server-Manager)
+1. ❌ Closed PR [#5](undefined) in [xamarth/StudentTaskManager](https://github.com/xamarth/StudentTaskManager)
 <!--END_SECTION:activity-->
 
 ---

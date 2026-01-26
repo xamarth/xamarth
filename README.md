@@ -18,17 +18,17 @@ Welcome To My Github Profile
 ## 🛠️ Languages Known
 
 [![xamarth](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=10)](https://samarth.site)
-[![xamarth](https://skillicons.dev/icons?i=cpp,java,python,bash,c&perline=10)](https://samarth.site)
+[![xamarth](https://skillicons.dev/icons?i=python,bash,cpp&perline=10)](https://samarth.site)
 
 
 ## 🛠️ OS Compatibility
 
-[![xamarth](https://skillicons.dev/icons?i=linux,windows,apple,kali,ubuntu,arch,debian&perline=13)](https://samarth.site)
+[![xamarth](https://skillicons.dev/icons?i=linux,windows,kali,ubuntu,arch,debian&perline=13)](https://samarth.site)
 
 
 ## 🛠️ Connect With Me
 
-[![xamarth](https://skillicons.dev/icons?i=instagram&perline=10)](https://instagram.com/_xamarth)
+[![xamarth](https://skillicons.dev/icons?i=instagram&perline=10)](https://instagram.com/5amartth)
 [![xamarth](https://skillicons.dev/icons?i=twitter&perline=10)](https://x.com/xamarthkosta)
 [![xamarth](https://skillicons.dev/icons?i=discord&perline=10)](https://discord/riotoreo)
 

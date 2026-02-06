@@ -20,4 +20,3 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
-          CODE_LANG: python ruby json html css

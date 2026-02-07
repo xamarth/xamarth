@@ -48,7 +48,7 @@ Welcome To My Github Profile
 
 <!--START_SECTION:waka-->
 
-```python ruby json html css
+```txt
 Total Time: 249 hrs 25 mins
 
 JavaScript    151 hrs 11 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.61 %

@@ -1,5 +1,3 @@
 # xamarth
-.env
-*.html
-/tmp
-/.vscode
+
+/.github
